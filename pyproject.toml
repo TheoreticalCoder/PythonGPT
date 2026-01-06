@@ -3,11 +3,11 @@ name = "pythongpt"
 version = "1.0.0"
 description = "A project for natural language programming. (ChatGPT Version)"
 authors = [
-    {name = "Leonardo Mieschendahl", email = "miesschendahl.leonardo@gmail.com"}
+    {name = "Leonardo Mieschendahl", email = "mieschendahl.leonardo@gmail.com"}
 ]
 dependencies = [
-    'PromptGPT @ git+https://github.com/Mieschendahl/PromptGPT.git',
-    'NaturalPy @ git+https://github.com/Mieschendahl/NaturalPy.git'
+    'PromptGPT @ git+https://github.com/TheoreticalCoder/PromptGPT.git',
+    'NaturalPy @ git+https://github.com/TheoreticalCoder/NaturalPy.git'
 ]
 
 [build-system]
